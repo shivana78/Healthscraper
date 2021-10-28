@@ -1,5 +1,4 @@
 # Healthscraper
-Determining Consumers’ Twitter Sentiments  Towards the Health Insurance of Canada During the First 3 Months of Vaccination
 
 Market efficiency occurs at the expense of acknowledging your customer’s feedback and obtaining their 
 trust. In particular, the global insurance market, having to bear the consequences of the covid-19 outbreak in 
